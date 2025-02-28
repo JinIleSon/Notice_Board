@@ -5,7 +5,7 @@
 ## 프론트엔드(Frontend)
 ### HTML - 웹 페이지의 구조 정의
 ### CSS - 스타일링 (폰트, 테이블 스타일링, UI)
-### JavaScript (jQuery 없음) - 일부 UI 인터랙션 포함 (CSS onmouseover, onmouseout 사용)<br><br>
+### JavaScript - 일부 UI 인터랙션 포함 (CSS onmouseover, onmouseout 사용)<br><br>
 
 ###
 ## 백엔드(Backend)
